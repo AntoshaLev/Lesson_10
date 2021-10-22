@@ -1,4 +1,4 @@
-# Задание 1
+# Задание_1
 class Matrix:
     def __init__(self, matrix_data):
         self.__matrix = matrix_data
